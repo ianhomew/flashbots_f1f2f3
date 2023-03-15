@@ -1,0 +1,19 @@
+{
+  "name": "untitled",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@flashbots/ethers-provider-bundle": "^0.4.0",
+    "dotenv": "^16.0.3",
+    "ethers": "^5.4.2",
+    "ethers-utils": "^2.1.11",
+    "mnemonic-to-private-key": "^0.4.1"
+  }
+}
